@@ -1,3 +1,9 @@
+## [1.0.1](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.0.0...v1.0.1) (2026-07-27)
+
+### :bug: Fixes
+
+* accept Symfony 8 components alongside 7.4 ([921b7fe](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/921b7fe0883e9847b2873134c383a37f79c9419a))
+
 ## 1.0.0 (2026-07-27)
 
 ### :white_check_mark: Tests
