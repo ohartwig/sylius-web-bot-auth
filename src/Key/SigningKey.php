@@ -76,4 +76,27 @@ final readonly class SigningKey
     {
         return rtrim(strtr(base64_encode($raw), '+/', '-_'), '=');
     }
+
+    /**
+     * Keeps the secret half out of dumps.
+     *
+     * A key object reaches a var_dump, a profiler panel or a stack-trace
+     * argument list far more easily than one expects — Symfony renders
+     * constructor arguments on its exception pages, and a logged trace outlives
+     * the request that produced it. Without this the raw Ed25519 secret is
+     * sitting there in plain text, and the only remedy for a leaked signing key
+     * is rotation.
+     *
+     * @return array<string, mixed>
+     */
+    public function __debugInfo(): array
+    {
+        return [
+            'kid' => $this->kid(),
+            'publicKey' => self::base64Url($this->publicKey),
+            'secretKey' => null === $this->secretKey ? null : '[redacted]',
+            'notBefore' => $this->notBefore,
+            'expiresAt' => $this->expiresAt,
+        ];
+    }
 }
