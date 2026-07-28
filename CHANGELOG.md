@@ -1,3 +1,15 @@
+## [1.1.1](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.0...v1.1.1) (2026-07-28)
+
+### :bug: Fixes
+
+* keep the Ed25519 secret out of dumps ([1307043](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/1307043b27f32570dc8ed7d6554d7ac3938b66e9))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.26.0 ([2d36ffa](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/2d36ffacf77c7b9404c012a7c34449a96c4295dc))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.26.1 ([3215f53](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/3215f535eb8f4663a374575a1b6ed8c8c4f2887d))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.26.3 ([6671d41](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6671d416627f894894ef5ba1a394d80ef6c05fc8))
+
 ## [1.1.0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.0.1...v1.1.0) (2026-07-28)
 
 ### :sparkles: Features
