@@ -40,7 +40,7 @@ final class SeedKeyProvider implements KeyProviderInterface
 
         $keys = [];
         foreach ($this->seedConfigs as $config) {
-            $seed = (string) ($config['seed'] ?? '');
+            $seed = $config['seed'];
             if ('' === $seed) {
                 continue;
             }
