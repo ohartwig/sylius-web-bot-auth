@@ -1,3 +1,22 @@
+## [1.1.4](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.3...v1.1.4) (2026-08-03)
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.32.5 ([3012f1a](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/3012f1a2d4481e6df103cc9fde648ef14925cb11))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.32.6 ([62a62aa](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/62a62aa8dbdc09114df19740e77facf4b4cf55cd))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.32.7 ([68bdd62](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/68bdd62c485eba469aa78c6d760240b7d9b0eac1))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.33.0 ([d879020](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/d8790208020994ee17b9fa9139d06b4b167e4aaf))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.34.0 ([6f0ad35](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6f0ad3535f5405840c3f10511536c5de038c8e25))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.34.1 ([dfc2189](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/dfc21895d2f3cc243e25b309f07b7278c421161f))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.34.2 ([78353dd](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/78353dd9b4e9b82b8aab4a776374d484856efbfc))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.35.0 ([a3fcafc](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/a3fcafc68517cc71dd7d6a02e49c2f66f9d9d230))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.35.1 ([9b2cf1c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/9b2cf1cdbe7ea244e3b2817ffc9020faafdec54e))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.35.2 ([375db78](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/375db78a58bfc84ebf0fe1000cf72a59f3a41cef))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.0 ([0c5b713](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/0c5b7135b507e311fa8043bde093a3c946192ec9))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.2 ([d54c100](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/d54c100bea92b668a9bb8101ddb135941de54711))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.4 ([0c6f5eb](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/0c6f5ebe1840e744a54f173552b780703c944d38))
+* **security:** Templates auf devops/repo-templates abgleichen ([da1ed5d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/da1ed5d732977c1e977bce0f3279e13f0ea58580))
+
 ## [1.1.3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.2...v1.1.3) (2026-08-01)
 
 ### :bug: Fixes
