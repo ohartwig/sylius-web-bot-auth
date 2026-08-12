@@ -1,3 +1,22 @@
+## [1.1.5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.4...v1.1.5) (2026-08-12)
+
+### :white_check_mark: Tests
+
+* **config:** cover the signing-key configuration ([31555e5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/31555e53b16e3f1cc4c43cb8689d84ef1a8e1f85))
+
+### :repeat: Continuous Integrations
+
+* follow the composed pipeline on [@1](https://git.ole-hartwig.eu/1) instead of an exact pin ([289611c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/289611c2fab8eabb569ae54f114bc5de6d14031f))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.12 ([ec1113f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/ec1113ff4af255a5413d1e4f0a1bc740dccf4b41))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.5 ([077eea3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/077eea3f827505a19f760f45ad180e5190ae897a))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.6 ([e53e738](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/e53e738471dc471ee071e8a7dcddb712a00a397a))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.8 ([6a33d8d](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6a33d8da9a71783e361b38dff0dfc6bf60e15a13))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v1.36.9 ([907c7aa](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/907c7aa4bbf588dd554ee2f50a2a1e7b76f489fc))
+* **deps:** update dependency phpunit/phpunit to ^11.5.50 [security] ([4e80382](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/4e80382525b39e39142436db148acf33937773d5))
+
 ## [1.1.4](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.3...v1.1.4) (2026-08-03)
 
 ### :repeat: Chores
