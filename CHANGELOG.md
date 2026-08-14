@@ -1,3 +1,9 @@
+## [1.1.9](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.8...v1.1.9) (2026-08-14)
+
+### :bug: Fixes
+
+* allow the infection extension installer plugin ([d25d143](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/d25d143f54921c24cff6d89799e90e81ca655085))
+
 ## [1.1.8](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.7...v1.1.8) (2026-08-13)
 
 ### :repeat: Chores
