@@ -1,3 +1,9 @@
+## [1.1.17](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.16...v1.1.17) (2026-09-02)
+
+### :repeat: Chores
+
+* **repo-templates:** sync ([902d023](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/902d023c516d58e65517cbd91dadc65eb0c9791c))
+
 ## [1.1.16](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.15...v1.1.16) (2026-09-02)
 
 ### :bug: Fixes
