@@ -1,3 +1,9 @@
+## [1.1.16](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.15...v1.1.16) (2026-09-02)
+
+### :bug: Fixes
+
+* **deps:** update dependency php to ^8.5.10 ([167987f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/167987f3cb67753e34f90c35fbc1405b78d68e5d))
+
 ## [1.1.15](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.14...v1.1.15) (2026-09-01)
 
 ### :repeat: Chores
