@@ -1,3 +1,9 @@
+## [1.1.18](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.17...v1.1.18) (2026-09-04)
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.2.13 ([038f381](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/038f381e939ddca743374166fb5ed629c1240e2b))
+
 ## [1.1.17](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.16...v1.1.17) (2026-09-02)
 
 ### :repeat: Chores
