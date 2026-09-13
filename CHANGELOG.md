@@ -1,3 +1,14 @@
+## [1.1.19](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.18...v1.1.19) (2026-09-13)
+
+### :repeat: Continuous Integrations
+
+* release with yasrt ([7a09c01](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/7a09c010ac0f95c04c79b917f47b1a6b880b6ee6))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.2.14 ([eb8e3c0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/eb8e3c0bf9ff1932e7aef991eff7716c890ac66b))
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2 ([7dc2bec](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/7dc2bec91d981accab00bb93db822d5558d9646c))
+
 ## [1.1.18](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.17...v1.1.18) (2026-09-04)
 
 ### :repeat: Chores
