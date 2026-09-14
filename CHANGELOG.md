@@ -1,3 +1,9 @@
+## [1.1.20](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.19...v1.1.20) (2026-09-14)
+
+### :bug: Fixes
+
+* **docs:** Markdown-Hygiene fuer lint:markdown ([1ae7241](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/1ae72411db30fe1a77fb408f436c4d7eb997c14c))
+
 ## [1.1.19](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.18...v1.1.19) (2026-09-13)
 
 ### :repeat: Continuous Integrations
