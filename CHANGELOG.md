@@ -1,3 +1,15 @@
+## [1.1.23](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.22...v1.1.23) (2026-09-28)
+
+### :memo: Documentation
+
+* link the family threat model from the README ([77e227f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/77e227fb8f265538271b76c727d6e3964c9fa7e1))
+* point project metadata and contribution paths at GitHub ([a094106](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/a094106efbed642ac533660ed24e6d741533c801))
+
+### :repeat: Chores
+
+* **reuse:** cover the template-synced .mise.toml and signing key ([eedd75b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/eedd75b1f694d77086fe7d8abedbbb725dfd3169))
+* **license:** name the copyright holder with a contact address ([30a8aa5](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/30a8aa5121d2ecbb1cafd3180cd901577e4eb1a6))
+
 ## [1.1.22](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.21...v1.1.22) (2026-09-26)
 
 ### :bug: Fixes
