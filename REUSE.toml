@@ -1,7 +1,7 @@
 version = 1
 SPDX-PackageName = "koh/sylius-web-bot-auth"
 SPDX-PackageSupplier = "Kai Ole Hartwig <mail@ole-hartwig.eu>"
-SPDX-PackageDownloadLocation = "https://github.com/ole-hartwig/sylius-web-bot-auth"
+SPDX-PackageDownloadLocation = "https://github.com/ohartwig/sylius-web-bot-auth"
 
 # Config, metadata and repo-template files. They carry no comment syntax that
 # survives their own tooling (composer.json, JSON-like configs), are generated

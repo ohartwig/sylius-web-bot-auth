@@ -17,10 +17,10 @@
             "email": "mail@ole-hartwig.eu"
         }
     ],
-    "homepage": "https://ole-hartwig.eu/open-source/sylius-agent-ready",
+    "homepage": "https://github.com/ohartwig/sylius-web-bot-auth",
     "support": {
-        "issues": "https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/-/issues",
-        "source": "https://github.com/ole-hartwig/sylius-web-bot-auth"
+        "issues": "https://github.com/ohartwig/sylius-web-bot-auth/issues",
+        "source": "https://github.com/ohartwig/sylius-web-bot-auth"
     },
     "require": {
         "php": "^8.5.11",
