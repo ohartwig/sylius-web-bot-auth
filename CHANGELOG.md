@@ -1,3 +1,13 @@
+## [1.1.24](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.23...v1.1.24) (2026-09-29)
+
+### :repeat: Continuous Integrations
+
+* mirror releases to GitHub and notify Packagist ([26aae4f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/26aae4fc5b16634157a3be95f905855f945c995c))
+
+### :repeat: Chores
+
+* **deps:** update dependency devops/ci-cd-components/composed-default-pipelines to v2.21.4 ([07ef10b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/07ef10b2683fd4bf4a9277a7745424cf789f17db))
+
 ## [1.1.23](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.22...v1.1.23) (2026-09-28)
 
 ### :memo: Documentation
