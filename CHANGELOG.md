@@ -1,3 +1,18 @@
+## [1.1.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.26...v1.1.27) (2026-10-05)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.23 ([7826650](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/782665031a47f07614b9c60546b94a549d36ba1e))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.22 ([56e9995](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/56e999593a0ba06e45f20eb3911136ec2fe1ba22))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.20 ([dba7b84](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/dba7b84e06d128f49c7b81b4868deba9ede6de59))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.19 ([6b0e365](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6b0e36504ed34c8b67112b495faaa6e97aff5e1a))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.18 ([4ccf371](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/4ccf37157af8ec8ff47140e27e6a35425ccbe6ff))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.17 ([d26acb3](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/d26acb324f80b0e0bdab2573ef41bec46dc28349))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.2.17 ([8fa56f6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/8fa56f6d1c52373792a7834dd118fac54db60bfe))
+
 ## [1.1.26](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.25...v1.1.26) (2026-10-04)
 
 ### :repeat: Continuous Integrations
