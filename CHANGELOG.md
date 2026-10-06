@@ -1,3 +1,9 @@
+## [1.1.28](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.27...v1.1.28) (2026-10-06)
+
+### :repeat: Chores
+
+* **deps:** update dependency phpunit/phpunit to ^11.5.57 ([2ed85ff](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/2ed85ffb29945bff6ea7263c6e5143257f84916b))
+
 ## [1.1.27](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.26...v1.1.27) (2026-10-05)
 
 ### :repeat: Continuous Integrations
