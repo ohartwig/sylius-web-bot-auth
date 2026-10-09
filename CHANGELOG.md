@@ -1,3 +1,19 @@
+## [1.1.30](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.29...v1.1.30) (2026-10-09)
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.33 ([bc9d6eb](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/bc9d6eb080577e21a9738eefa0785dfe5ce7cdb9))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.32 ([d5810a2](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/d5810a264ea9158229fceb9d4606fa6e5cb49e60))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.31 ([9da600c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/9da600c70a40b84930064373ae4a9edc915e604a))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.30 ([cf3ec7e](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/cf3ec7eabfc878fdd9a01323b8f8484b49c1d307))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.29 ([e837121](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/e83712105aeb511d86fbe54f334cee10f9edca95))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.28 ([795f310](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/795f310d4b542cbd11e726e1479e793f5fae9929))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.38.27 ([17ddee6](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/17ddee679e2813b192c0cf5519c68345749b73d1))
+
+### :repeat: Chores
+
+* **deps:** update dependency phpstan/phpstan to ^2.3.1 ([cd9a2ac](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/cd9a2ac925b78bf9439eae8e8afda0a7b15c753b))
+
 ## [1.1.29](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.28...v1.1.29) (2026-10-07)
 
 ### :repeat: Continuous Integrations
