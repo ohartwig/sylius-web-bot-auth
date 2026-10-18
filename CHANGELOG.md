@@ -1,3 +1,24 @@
+## [1.1.32](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.31...v1.1.32) (2026-10-18)
+
+### :bug: Fixes
+
+* admit PHP 8.3 and test the floor on it ([7b49781](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/7b497812eb8b1854ad3f59e8800bc6397f3e77e2))
+
+### :repeat: Continuous Integrations
+
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.6 ([9625343](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/96253433c2fe85bcb3eb26935610fdf97ab9225c))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.5 ([e785291](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/e78529120c47ccb27bdf0e51064fc633bcf14d21))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.4 ([15e9a75](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/15e9a756368f77b8aa91c6d458747413965f8bb7))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.3 ([b24a08c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/b24a08cdf2e1c55b5e8ec8ae2cbd36c5f8ef6a6a))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.2 ([b1dc656](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/b1dc65682ddd00a88725fa84fad6fbed9db5a253))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.1 ([6da122f](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6da122f0863794f559439e89e54432db96de0588))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.40.0 ([943c676](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/943c6760ca92ac2bde8417f9b77bc03632fe37aa))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.15 ([606537b](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/606537b66956c9497208017b200762f2a1bb58fe))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.14 ([e51bb11](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/e51bb11a29a0de7edd4aa4e2fc8e20414ce00224))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.13 ([61178ef](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/61178ef06c2ff187bdc5cdffc4830c73aa0454e0))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.12 ([366966c](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/366966cd5e02aadf50f0ac3a49af7df1dc10ac6b))
+* **deps:** update dependency devops/ci-cd-components/lint-tools to v1.39.11 ([6574fb0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/6574fb0ad54aaf3184e0bd946a6621c7853409eb))
+
 ## [1.1.31](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.30...v1.1.31) (2026-10-16)
 
 ### :repeat: Continuous Integrations
