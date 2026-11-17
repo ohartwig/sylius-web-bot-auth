@@ -1,3 +1,9 @@
+## [1.1.38](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.37...v1.1.38) (2026-11-17)
+
+### :bug: Fixes
+
+* **composer:** point homepage at the package page ([5e644a0](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/commit/5e644a06a6ec64187171d34dd7f1c0821975f593))
+
 ## [1.1.37](https://git.ole-hartwig.eu/ai-ready-platform/platform/sylius-web-bot-auth/compare/v1.1.36...v1.1.37) (2026-11-17)
 
 ### :repeat: Chores
